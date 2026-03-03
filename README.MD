@@ -24,7 +24,7 @@ A beginner-friendly cybersecurity project that scans a target for open ports —
 ## 🚀 How to Run
 
 ```bash
-py  port_scanner.py
+python port_scanner.py
 ```
 
 ---

@@ -8,7 +8,7 @@ A beginner-friendly cybersecurity project that scans a target for open ports —
 
 ```
 
-├── port_scanner.py       # Project 3 
+├── port_scanner.py       # main file 
 └── README_portscanner.md # This file
 ```
 
